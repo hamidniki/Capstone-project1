@@ -24,7 +24,7 @@ Popularity - A number between 0 - 100, which is calculated based on the number o
 
 The following stages were performed and the documentation as well as jupyter notebook pertinent to each stage is in this repository:
 
-Data Wrangling   
-Data Storytelling  
-Exploratory Data Analysis (EDA)  
-In-Depth Analysis (Multivariate Analysis)   
+- Data Wrangling   
+- Data Storytelling  
+- Exploratory Data Analysis (EDA)  
+- In-Depth Analysis (Multivariate Analysis)   
