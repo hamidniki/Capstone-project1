@@ -22,6 +22,11 @@ valence
 #### Target Variable:
 Popularity - A number between 0 - 100, which is calculated based on the number of times a song was played
 
+### Approach and Results:
+After performing data cleaning/wrangling, visualizations and exploratory analysis, supervised learning algorithms were used to train multivariate models. Since the outcome is numerical, this would be a regresison probelem. The regressors used were LASSO and Gradient Boosting Regression. Gradient Boosting performed better than LASSO by achieving:
+- R2 on train data: **0.13**
+- R2 on test dataon train data, 0.12 on test data and an MSE 
+
 The following stages were performed and the documentation as well as jupyter notebook pertinent to each stage is in this repository:
 
 - Data Wrangling   
