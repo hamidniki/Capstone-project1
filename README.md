@@ -5,8 +5,8 @@ This project aims to find a model that predicts the popularity of a song in the 
 
 #### Features
 
-acousticness,        
-danceability,        
+acousticness        
+danceability        
 duration_ms,         
 energy,              
 instrumentalness,    
