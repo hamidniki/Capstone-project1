@@ -34,7 +34,7 @@ https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-P
 ###Final Presentation:
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-Presentation.pdf
 
-The work on this project was divided into the following 4 phases. To see the documentation pertinent to each phase use the links provided:
+The work on this project was divided into the following 4 phases. To see the documentation pertinent to each phase click on the links provided:
 
 - Data Wrangling  
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone%201%20Data%20Wrangling.ipynb
@@ -44,7 +44,7 @@ https://github.com/hamidniki/Capstone-project1/blob/master/Hamid%20Niki-Capstone
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone-Project1-Data-Storytelling.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-Data-Storytelling.pdf
 
-- Exploratory Data Analysis (EDA) 
+- Exploratory Data Analysis (EDA)   
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone-Project1-EDA.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-EDA.pdf
 
