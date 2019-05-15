@@ -1,5 +1,5 @@
 # Capstone Project1: Spotify Audio Features
-This project aims to find a model that predicts the popularity of a song in the dataset based on the song's audio features. 
+This project aims to find a model that predicts the popularity of a song in the dataset based on the song's audio features. The dataset has ~116,000 rows and 17 columns. 
 
 ### Features and the Target Variable: 
 
