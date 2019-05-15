@@ -28,26 +28,26 @@ After performing data cleaning/wrangling, visualizations and exploratory analysi
 - R2 on test data: **0.12**
 - MSE on test data = **4.2**
 
-###Final Report:
+### Final Report:
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-Final-Report.pdf
 
-###Final Presentation:
+### Final Presentation:
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-Presentation.pdf
 
 The work on this project was divided into the following 4 phases. To see the documentation pertinent to each phase click on the links provided:
 
-- Data Wrangling  
+- **Data Wrangling**  
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone%201%20Data%20Wrangling.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid%20Niki-Capstone%20Project1%20Data%20Wrangling.pdf
 
-- Data Storytelling  
+- **Data Storytelling**  
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone-Project1-Data-Storytelling.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-Data-Storytelling.pdf
 
-- Exploratory Data Analysis (EDA)   
+- **Exploratory Data Analysis (EDA)**   
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone-Project1-EDA.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-EDA.pdf
 
-- In-Depth Analysis (Multivariate Analysis)   
+- **In-Depth Analysis (Multivariate Analysis)**   
 https://github.com/hamidniki/Capstone-project1/blob/master/Capstone-Project1-In-Depth-Analysis.ipynb
 https://github.com/hamidniki/Capstone-project1/blob/master/Hamid-Niki-Capstone-Project1-In-Depth-Analysis.pdf
