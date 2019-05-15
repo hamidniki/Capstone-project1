@@ -5,19 +5,19 @@ This project aims to find a model that predicts the popularity of a song in the 
 
 #### Features
 
-acousticness        116372 non-null float64
-danceability        116372 non-null float64
-duration_ms         116372 non-null int64
-energy              116372 non-null float64
-instrumentalness    116372 non-null float64
-key                 116372 non-null int64
-liveness            116372 non-null float64
-loudness            116372 non-null float64
-mode                116372 non-null int64
-speechiness         116372 non-null float64
-tempo               116372 non-null float64
-time_signature      116372 non-null int64
-valence             116372 non-null float64
+acousticness,        
+danceability,        
+duration_ms,         
+energy,              
+instrumentalness,    
+key,                 
+liveness,            
+loudness,            
+mode,               
+speechiness,         
+tempo,              
+time_signature,      
+valence             
 
 #### Target:
 Popularity - A number between 0 - 100, which is calculated based on the number of times a song was played
