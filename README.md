@@ -19,7 +19,7 @@ tempo
 time_signature      
 valence             
 
-#### Target:
+#### Target Variable:
 Popularity - A number between 0 - 100, which is calculated based on the number of times a song was played
 
 The following stages were performed and the documentation as well as jupyter notebook pertinent to each stage is in this repository:
